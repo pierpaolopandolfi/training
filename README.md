@@ -1,2 +1,3 @@
 # training
-Repository for training activities
+Repository for training activities.
+This is the first update!
